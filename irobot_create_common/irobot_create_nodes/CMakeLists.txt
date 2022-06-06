@@ -44,6 +44,7 @@ set(dependencies
   tf2_geometry_msgs
   tf2_ros
   Boost
+  rclcpp_components
 )
 
 # Hazards vector publisher
